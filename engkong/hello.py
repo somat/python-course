@@ -1,1 +1,2 @@
-gggg
+#!/usr/bin/env python
+print "Hello Engkong"
